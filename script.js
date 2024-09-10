@@ -1,4 +1,4 @@
-let age = parseInt(prompt("Please enter your age:"));
+let age = number(prompt("Please enter your age:"));
 
 if (age >= 18) {
   console.log("You are an adult.");
